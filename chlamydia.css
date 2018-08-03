@@ -1,0 +1,40 @@
+body{
+	background-image: url(Images/BG.png);
+	background-attachment: fixed;
+	background-position: center;
+	background-size: cover;
+	font-family: 'Russo One', sans-serif;
+}
+
+#links{
+	color: snow;
+	text-decoration: none;
+	text-align: center;
+	margin-top: 17em;
+}
+
+.link{
+	margin: 4em;
+	text-decoration: none;
+	display: inline;
+	width: 4em;
+	padding: 8px;
+	background: rgb(163, 163, 163, .7);
+	color: blue;
+}
+
+.link:hover{
+	margin: 4em;
+	text-decoration: none;
+	display: inline;
+	width: 4em;
+	padding: 8px;
+	background: black;
+	color: white;
+}
+
+#Logo{
+	width: 30em;
+	text-align: center;
+	margin-bottom: -25em;
+}

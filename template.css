@@ -1,0 +1,26 @@
+body {
+background: linear-gradient(blue,white);
+background-size:cover;
+background-attachment: fixed;
+font-family: 'Ubuntu', sans-serif;
+}
+
+.link {
+	text-decoration: none;
+	margin: 1.2em;
+	color: white;
+}
+
+.link:hover {
+	border-bottom: black solid 2.5px;
+}
+
+#here {
+	font-weight: bold;
+}
+
+#title {
+	text-align: center;
+	background: snow;
+	border-radius: 2em;
+}

@@ -1,0 +1,50 @@
+.men {
+	float: right;
+	margin: 2em;
+	color: green;
+
+}
+.women {
+	float: left;
+	margin: 2em;
+	color: purple;
+}
+
+#info {
+	background: white;
+	padding: 20px;
+	border-radius: 5px;
+	margin: 20px;
+}
+
+#ccell {
+	float: right;
+	margin-top: -3.5em;
+	width: 18em;
+	margin-left: 5px;
+}
+
+#anti {
+	width: 18em;
+	float: right;
+	margin-left: 5px;
+	margin-top: -15px;
+}
+
+#PID {
+	width: 18em;
+	float: left;
+	border: solid black 2px;
+	margin-right: 10px;
+}
+
+#venn {
+	width: 50em;
+	float: center;
+}
+
+#logo {
+	width: 3.4em;
+	float: right;
+	margin-top: -2em;
+	}

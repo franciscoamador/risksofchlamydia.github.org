@@ -1,0 +1,36 @@
+
+#list1 {
+  display: inline-block;
+}
+
+#us {
+  background: white;
+  height: 5em;
+}
+
+div.gallery {
+    margin: 5px;
+    border: 1px solid #ccc;
+    float: left;
+    width: 180px;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+}
+
+div.desc {
+    padding: 15px;
+    text-align: center;
+}
+
+#logo {
+  width: 3.4em;
+  float: right;
+  margin-top: -.8em;
+  }
+
+#all {
+ margin-left: 9em; 
+}
